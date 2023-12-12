@@ -1,8 +1,0 @@
-
-mpi_example:15942 terminated with signal 11 at PC=7f56b4c47580 SP=7ffcb252be60.  Backtrace:
-/lib/x86_64-linux-gnu/libc.so.6(+0x47580)[0x7f56b4c47580]
-/lib/x86_64-linux-gnu/libc.so.6(atoi+0x14)[0x7f56b4c43654]
-./mpi_example(+0x1319)[0x55d24a9a8319]
-/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7f56b4c29d90]
-/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7f56b4c29e40]
-./mpi_example(+0x1205)[0x55d24a9a8205]
